@@ -1,4 +1,4 @@
-cask "pong" do
+cask "homebrew-pong-macos" do
   version "0.9.0-MAC"
   sha256 "cac00a0c69132237ad3920849ef4786592b64358876cbfa59c449e965f66e30e"
 
